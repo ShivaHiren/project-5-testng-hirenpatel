@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sanity Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.468">
+  <properties />
+  
+  
+            <testcase name="verifyThatUserRegisterAccountSuccessfully" time="3.468" classname="tutorialsninja.testsuite.RegisterPageTest" />
+      
+</testsuite>
